@@ -84,4 +84,6 @@ String abc = s.next();
 
  - Scanner is a class name that is available in java.util package.
 
+It would look like 
 
+import java.util.Scanner;
