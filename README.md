@@ -78,3 +78,10 @@ String abc = s.next();
 
 
 - To get the full line we use nextLine()
+
+
+## Note: We have to import Scanner. 
+
+ - Scanner is a class name that is available in java.util package.
+
+
