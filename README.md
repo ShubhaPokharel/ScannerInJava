@@ -21,7 +21,7 @@ Scanner s = new Scanner(System.in);
 
 int num = s.nextInt();
 
-
+______________________________________
 To read byte data we use "nextByte()"
 
 
@@ -32,7 +32,7 @@ Scanner s = new Scanner(System.in);
 byte num = s.nextByte();
 
 
-
+______________________________________
 To read long data we use "nextLong()"
 
 
@@ -43,7 +43,7 @@ Scanner s = new Scanner(System.in);
 long num = s.nextLong();
 
 
-
+______________________________________
 To read float data we use "nextFloat()"
 
 
@@ -53,7 +53,7 @@ Scanner s = new Scanner(System.in);
 
 float num = s.nextFloat();
 
-
+______________________________________
 To read double data we use "nextDouble()"
 
 
@@ -64,7 +64,7 @@ Scanner s = new Scanner(System.in);
 double num = s.nextDouble();
 
 
-
+______________________________________
 To read String data we use "nextInt()"
 
 
@@ -75,4 +75,6 @@ Scanner s = new Scanner(System.in);
 String abc = s.next();
 
 - next() will only take the first line of words and not the full line
+
+
 - To get the full line we use nextLine()
